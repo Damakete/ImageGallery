@@ -1,2 +1,1 @@
-# ImageGallery
-Image gallery inspired in camillemormal page.
+Simple **image gallery** inspired in [camillemormal](https://camillemormal.com/) page, followed the **Hyperplexed** [tutorial](https://youtu.be/PkADl0HubMY?si=71VkiuyzRgzqovkC) in his official **YouTube** channel.
